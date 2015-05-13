@@ -5,7 +5,7 @@ BUILD_DIR = $(GIT_DIR)/build
 TOP_DIR = $(PWD)
 
 GIT_URL =  https://github.com/ccny-ros-pkg/rgbdtools.git
-#GIT_REVISION = master
+GIT_REVISION = ed16d350cb18181b3d032b9fba8b41d20cc20105
 
 include $(shell rospack find mk)/git_checkout.mk
 
