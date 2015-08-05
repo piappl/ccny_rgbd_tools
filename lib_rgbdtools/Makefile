@@ -1,3 +1,5 @@
+# Modified: 2015.05.13 by Artur Wilkowski <ArturWilkowski@piap.pl>
+
 all: rgbdtools_local
 
 GIT_DIR = rgbdtools_git

@@ -19,6 +19,8 @@
  *
  *  You should have received a copy of the GNU General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ *  Modified: 2015.02.02 by Artur Wilkowski <ArturWilkowski@piap.pl>
  */
 
 #ifndef CCNY_RGBD_TYPES_H
